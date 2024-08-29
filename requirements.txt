@@ -1,0 +1,11 @@
+asgiref              3.8.1   
+diff-match-patch     20230430
+Django               5.1     
+django-import-export 4.1.1
+django-unfold        0.37.0
+pillow               10.4.0
+pip                  24.2
+six                  1.16.0
+sqlparse             0.5.1
+tablib               3.5.0
+tzdata               2024.1
